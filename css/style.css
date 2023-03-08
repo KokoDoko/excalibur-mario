@@ -1,0 +1,10 @@
+@font-face {
+    font-family: PressStart;
+    src: url(PressStart2P-Regular.ttf);
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: darkgray;
+}

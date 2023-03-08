@@ -2,6 +2,8 @@
 
 This is an experiment to work with object oriented programming in vanilla javascript, to create an excalibur platform game.
 
+http://kokodoko.github.io/excalibur-mario
+
 ![mario](./images/mario.gif)
 
 - Uses es6 modules and classes
